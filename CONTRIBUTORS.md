@@ -15,6 +15,7 @@ Add your name in the given format.
 * [Pravesh Pandey](https://contrihub21.herokuapp.com/profile/user/pravesh-pandey/)
 * [Jaspal Singh](https://contrihub21.herokuapp.com/profile/user/always0p/)
 * [Abhijeet Pandey](https://contrihub21.herokuapp.com/profile/user/abhijeetp94/)
+* [Shobhit Agarwal](https://contrihub21.herokuapp.com/profile/user/shobhit2002/)
 * [Shradhey Pathak](https://contrihub21.herokuapp.com/profile/user/Shradhey1008/)
 * [Sudhanshu Kumar](https://contrihub21.herokuapp.com/profile/user/sudhanshu1221/)
 * [Shivanand](https://contrihub21.herokuapp.com/profile/user/pinnacle20/)
